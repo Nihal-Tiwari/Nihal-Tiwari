@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/Kinshu_coc" target="blank"><img src="https://img.shields.io/twitter/follow/Kinshu_coc?logo=twitter&style=for-the-badge" alt="Kinshu_coc" /></a> </p>
 
-:computer: I'm Red Penetraiton Tester.
+:computer: I'm Penetraiton Tester.
 
 :house_with_garden: I’m from India.
 
