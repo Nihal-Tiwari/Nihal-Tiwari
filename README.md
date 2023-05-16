@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihal Tiwari</h1>
-<h3 align="center">A Self-Taught Ethical Hacker from India.</h3>
+OWASP Member | Self-Taught Ethical Hacker | Cybersecurity Trainer | Technical Speaker | Red Teaming | CTF Player | 
+OWASP SJCEM Chapter Leader
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihal-Tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="y1a2s3h4" /> </p>
 
