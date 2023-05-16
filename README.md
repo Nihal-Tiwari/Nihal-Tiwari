@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/Kinshu_coc" target="blank"><img src="https://img.shields.io/twitter/follow/Kinshu_coc?logo=twitter&style=for-the-badge" alt="Kinshu_coc" /></a> </p>
 
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nihal-Tiwari&show_icons=true&locale=en" alt="Nihal-Tiwari" /></p> -->
 
 - 🌱 I’m currently learning API Penetration Testing, Malware Analysis**
