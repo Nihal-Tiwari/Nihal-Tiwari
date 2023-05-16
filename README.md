@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihal Tiwari</h1>
 
-### OWASP Member | Self-Taught Ethical Hacker | Cybersecurity Trainer | Red Teamer | CTF Player | Communities | OWASP SJCEM Chapter Leader
+### OWASP Member | Self-Taught Ethical Hacker | Cybersecurity Trainer | Red Teamer | CTF Player | Communities
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
