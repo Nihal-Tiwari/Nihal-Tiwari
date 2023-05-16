@@ -4,17 +4,21 @@
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
+<br>
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nihal-Tiwari&show_icons=true&locale=en" alt="Nihal-Tiwari" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihal-Tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="y1a2s3h4" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihal-Tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="Kinshu_coc" width="150"/> </p>
 
 <p align="left"> <a href="https://twitter.com/Kinshu_coc" target="blank"><img src="https://img.shields.io/twitter/follow/Kinshu_coc?logo=twitter&style=for-the-badge" alt="Kinshu_coc" /></a> </p>
 
-- 🌱 I’m currently learning API Penetration Testing, Malware Analysis**
+:computer: I'm Red Penetraiton Tester.
 
-- 💬 Ask me about **Penetration Testing**
+:house_with_garden: I’m from India.
 
-- 📫 How to reach me **nihaltiwari80@gmail.com**
+:books: I'm currently learning all about IT and Security.
+
+📫 How to reach me **nihaltiwari80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
