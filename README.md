@@ -16,7 +16,7 @@
 
 :house_with_garden: I’m from India.
 
-:books: I'm currently learning all about IT and Security.
+:books: I'm currently learning about API and Mobile Penetration Testing.
 
 📫 How to reach me **nihaltiwari80@gmail.com**
 
