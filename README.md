@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Kinshu_coc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nihal-Tiwari" height="30" width="40" /></a>
+<a href="https://twitter.com/Kinshu_coc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshu_coc" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nihal-tiwari-09023818b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nihal-Tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/nihal_tiwari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash5368" height="30" width="40" /></a>
+<a href="https://instagram.com/nihal_tiwari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihal_tiwari" height="30" width="40" /></a>
 </p>
 
 
