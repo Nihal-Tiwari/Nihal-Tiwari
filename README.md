@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nihal-Tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="Kinshu_coc" width="150"/> </p>
 
 <p align="left"> <a href="https://twitter.com/Kinshu_coc" target="blank"><img src="https://img.shields.io/twitter/follow/Kinshu_coc?logo=twitter&style=for-the-badge" alt="Kinshu_coc" /></a> </p>
-:computer: I'm Security Researcher 
+:computer: I'm Security a Researcher 
 
 :house_with_garden: I’m from India.
 
